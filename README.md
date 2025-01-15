@@ -3,6 +3,15 @@
 - 🔭 Em busca de uma oportunidade...
 - 🌱 Estudando Análise e Desenvolvimento De Sistemas/ html, css e javascrip.
 
+##
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rdigodx&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rdigodx&layout=donut&theme=dark)](https://github.com/rdigodx/github-readme-stats)
+
+
+##
+
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Rodr-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rodr-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
