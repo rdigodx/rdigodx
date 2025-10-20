@@ -3,10 +3,7 @@
 - 🔭 Em busca de uma oportunidade...
 - 🌱 Estudante de Análise e Desenvolvimento de Sistemas, com conhecimentos em HTML, CSS, JavaScript, Python, Node.js e frameworks modernos. Busco aprimorar minhas habilidades em desenvolvimento web e soluções tecnológicas completas (front-end e back-end).
 
-##
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rdigodx&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rdigodx&layout=donut&theme=dark)](https://github.com/rdigodx/github-readme-stats)
 
 
 ##
