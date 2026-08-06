@@ -1,6 +1,6 @@
 ## Olá! eu sou o Rodrigo Ferreira
 
-- 🌱 Estudante de Análise e Desenvolvimento de Sistemas, com conhecimentos em HTML, CSS, JavaScript, Python, Node.js e frameworks modernos. Busco aprimorar minhas habilidades em desenvolvimento web e soluções tecnológicas completas (front-end e back-end).
+- 🌱 Estudante de Análise e Desenvolvimento de Sistemas, com conhecimentos básicos em HTML, CSS, JavaScript, Python, Node.js. Busco aprimorar minhas habilidades em desenvolvimento web e soluções tecnológicas completas (front-end e back-end).
 
 ##
 
