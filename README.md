@@ -1,6 +1,6 @@
 # Olá, me chamo Rodrigo Ferreira 👋
 
-Técnico em Desenvolvimento de Sistemas pelo SENAI, com experiência em HTML, CSS, JavaScript, Python, Node.js e SQL. Em busca de novas oportunidades em desenvolvimento web, com foco em soluções completas — front-end e back-end.
+Técnico em Desenvolvimento de Sistemas pelo SENAI, com experiência em HTML, CSS, JavaScript, Python, Node.js, C# e SQL. Em busca de novas oportunidades em desenvolvimento web, com foco em soluções completas — front-end e back-end.
 
 ---
 
