@@ -1,11 +1,16 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Rodrigo%20Ferreira&fontSize=60&fontColor=D6C9FF&animation=fadeIn&fontAlignY=35&desc=Desenvolvedor%20Back-end&descAlignY=55&descSize=18" width="100%"/>
+  
+<img src="https://capsule-render.vercel.app/api type=waving&color=0:2b0000,50:6b0000,100:b30000&height=220&section=header&text=Rodrigo%20Ferreira&fontSize=60&fontColor=FFD6D6&animation=fadeIn&fontAlignY=35&desc=Desenvolvedor%20Back-end&descAlignY=55&descSize=18" width="100%"/>
+  
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=800&color=B39DFF&center=true&vCenter=true&width=600&height=50&lines=Desenvolvedor+Back-end;C#+%7C+Node.js+%7C+Python+%7C+SQL;Explorando+IA+e+Agentes+Aut%C3%B4nomos" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Desenvolvedor+Back-end" alt="Typing SVG" />
 </a>
+
 </div>
 
-### 🛠️ Tecnologias
+<br/>
+
+## 🚀 Tech Stack
 
 <div style="display: inline_block"><br>
   <img align="center" alt="JavaScript" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
