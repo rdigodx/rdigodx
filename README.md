@@ -4,6 +4,21 @@
 
 <br/>
 
+## 👨‍💻 Sobre mim
+
+Sou profissional de Tecnologia da Informação, atualmente atuando com suporte de sistemas e construindo minha transição para a área de desenvolvimento back-end. Tenho formação técnica em Desenvolvimento de Sistemas pelo SENAI e experiência com suporte técnico de Sistemas e alguns projetos de desenvolvimento.
+
+Meu foco atual é me tornar um desenvolvedor back-end, aprofundando meus conhecimentos em C#, .NET, APIs, bancos de dados, PostgreSQL, JavaScript e Python. Busco desenvolver uma base sólida em lógica de programação, arquitetura de sistemas, integração entre serviços e boas práticas de desenvolvimento.
+
+* 🔭 Atualmente estudando C#/.NET e desenvolvimento back-end.
+* 🌱 Aprofundando conhecimentos em APIs, bancos de dados, programação e arquitetura de sistemas.
+* 💻 Desenvolvendo projetos próprios para aplicar meus conhecimentos na prática.
+* 📚 Evoluindo constantemente em C#, PostgreSQL, JavaScript/Next.js e Python.
+* 🎯 Objetivo: atuar profissionalmente como desenvolvedor back-end.
+* 💬 Aberto a oportunidades como desenvolvedor back-end júnior .
+
+<br/>
+
 ## 🚀 Tech Stack
 
 <div style="display: inline_block" align="center"><br>
