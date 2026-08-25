@@ -1,6 +1,7 @@
 <div align="center">
   
-<img src="https://capsule-render.vercel.app/api type=waving&color=0:2b0000,50:6b0000,100:b30000&height=220&section=header&text=Rodrigo%20Ferreira&fontSize=60&fontColor=FFD6D6&animation=fadeIn&fontAlignY=35&desc=Desenvolvedor%20Back-end&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:4d0000,50:b30000,100:ff0000&text=Rodrigo%20Ferreira&textBg=false&fontSize=60&animation=fadeIn&fontAlignY=35&desc=Desenvolvedor%20Back-end&descSize=18&descAlignY=55"/>
+
   
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Desenvolvedor+Back-end" alt="Typing SVG" />
@@ -24,7 +25,7 @@
 
 ---
 
-### 📫 Contato
+## 📫 Contato
 
 <div>
   <a href="mailto:rodrigodigo11032005@gmail.com"><img src="https://img.shields.io/badge/-Gmail-333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
