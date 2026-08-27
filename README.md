@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b0000,50:6b0000,100:b30000&height=220&section=header&text=Rodrigo%20Ferreira&fontSize=60&fontColor=FFD6D6&animation=fadeIn&fontAlignY=35&desc=Desenvolvedor%20Back-end&descAlignY=55&descSize=18%22%20width=%22100%"/>  
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2b0000,50:6b0000,100:b30000&height=220&section=header&text=Rodrigo%20Ferreira&fontSize=60&fontColor=FFD6D6&animation=fadeIn&fontAlignY=35&desc=Desenvolvedor%20Back-end%20Júnior&descAlignY=55&descSize=18%22%20width=%22100%"/>  
 </div>
 
 <br/>
@@ -21,7 +21,7 @@ Meu foco atual é me tornar um desenvolvedor back-end, aprofundando meus conheci
 
 ## 🚀 Tech Stack
 
-<div style="display: inline_block" align="center"><br>
+<div style="display: inline_block">
   
   <img align="center" alt="JavaScript" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   
